@@ -1,4 +1,3 @@
-
 # Online Examination System
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -58,27 +57,19 @@ env
     -   Access the admin login page via `/admin/login`.
     -   Enter your credentials (default: username - `admin`, password - `password`).
 
-    ![Admin Login Screenshot](link-to-admin-login-screenshot.png)
-
 2.  **Dashboard:**
     -   The dashboard provides an overview of the system.
 
-    ![Admin Dashboard Screenshot](link-to-admin-dashboard-screenshot.png)
 
 3.  **Exam Management:**
     -   Create, edit, and delete exams from the "Exams" section.
 
-    ![Exam Management Screenshot](link-to-exam-management-screenshot.png)
 
 4.  **Question Management:**
     -   Add, edit, and delete questions for each exam.
 
-    ![Question Management Screenshot](link-to-question-management-screenshot.png)
-
 5.  **User Management:**
     -   Manage student accounts (create, edit, delete).
-
-    ![User Management Screenshot](link-to-user-management-screenshot.png)
 
 ### Student
 
@@ -86,22 +77,15 @@ env
     -   Access the student login page via `/student/login`.
     -   Enter your credentials (provided by the administrator).
 
-    ![Student Login Screenshot](link-to-student-login-screenshot.png)
-
 2.  **Exam List:**
     -   View available exams on the exam list page.
-
-    ![Exam List Screenshot](link-to-exam-list-screenshot.png)
 
 3.  **Taking Exams:**
     -   Click on an exam to start. Follow the instructions and answer the questions.
 
-    ![Taking Exam Screenshot](link-to-taking-exam-screenshot.png)
-
 4.  **Results:**
     -   View your results after submitting the exam.
 
-    ![Results Screenshot](link-to-results-screenshot.png)
 
 > **Note:** Replace the placeholder image links with actual screenshots of the application.
 
@@ -156,4 +140,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 -   Make sure you have the correct version of PHP installed.
 -   Check the PHP extensions required by the project and enable them in `php.ini`.
 -   Update composer to the latest version.
-
